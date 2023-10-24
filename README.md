@@ -63,7 +63,7 @@ SOFTWARE.
 ## Features
 
 -Creates a readMe file
--
+
 
 ## Contributions
    Fork the project and make a pull request with your new commit.
@@ -71,7 +71,8 @@ SOFTWARE.
 ## Questions
 If you have any questions contact me via 
 
-Github - Imjuell
+Github -[ Imjuell](https://github.com/ImJuell)
+
 Email - ju3llanthony@gmail.com
 
 
