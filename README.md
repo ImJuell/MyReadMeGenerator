@@ -14,6 +14,7 @@ I created this generator because I wanted to create high quality readMe files in
 - [License](#License)
 - [Contributions](#Contributions)
 - [Questions](#Questions)
+- [mock-up](#mock-Up)
 
 
 
@@ -74,5 +75,8 @@ If you have any questions contact me via
 Github -[ Imjuell](https://github.com/ImJuell)
 
 Email - ju3llanthony@gmail.com
+
+## Mock-Up
+![Screen Recording 2023-10-24 at 8 12 33 PM](https://github.com/ImJuell/MyReadMeGenerator/assets/133014136/b93cdf36-335a-4b8b-971b-36312a16d53a)
 
 
